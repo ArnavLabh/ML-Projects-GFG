@@ -2,9 +2,11 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16hjvYuPTBMe7cMAlaWJZtxTaAZ8qVHaj)
 
-<a href="https://arnavlabh.github.io/ML-Projects-GFG/01_dashboard.html" target="_blank">
-	<img src="https://raw.githubusercontent.com/ArnavLabh/ML-Projects-GFG/main/assets/thumbnails/01_dashboard_thumb.png" alt="Titanic Survival Dashboard" width="420" />
-</a>
+<p align="center">
+	<a href="https://arnavlabh.github.io/ML-Projects-GFG/01_dashboard.html" target="_blank">
+		<img src="https://raw.githubusercontent.com/ArnavLabh/ML-Projects-GFG/main/assets/thumbnails/01_dashboard_thumb.png" alt="Titanic Survival Dashboard" width="420" />
+	</a>
+</p>
 
 <p align="center"><em>Click the thumbnail to open the interactive dashboard.</em></p>
 
