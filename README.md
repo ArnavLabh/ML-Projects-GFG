@@ -1,7 +1,7 @@
 <!-- PROJECT INDEX (Auto-Inserted) -->
 <div align="center">
 
-## 21 Days • 21 Machine Learning Projects (GeeksforGeeks Live)
+## 7 Days • 7 Machine Learning Projects (GeeksforGeeks Live)
 
 | # | Project | Colab | Repo Folder |
 |---|---------|-------|-------------|
