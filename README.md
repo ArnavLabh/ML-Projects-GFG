@@ -11,7 +11,7 @@
 | 4 | Heart Disease Risk Predictor | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SAHZ2ILsATYioJwOpe2nb-iaAw5QjrZa) | [Folder](https://github.com/ArnavLabh/ML-Projects-GFG/tree/main/04_AI_in_Healthcare_Building_a_Life_Saving_Heart_Disease_Predictor) |
 | 5 | Smart Customer Segmentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1npv5gGLBr6HU3D3HE94yVBCR_3XuCp4a) | [Folder](https://github.com/ArnavLabh/ML-Projects-GFG/tree/main/05_Smart_Segmentation_Unlocking_Customer_Personas_with_AI) |
 | 6 | Future Store Sales Forecasting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lAFG5iSh_FSW5LdqnEqFFaOrTXVGv0i0) | [Folder](https://github.com/ArnavLabh/ML-Projects-GFG/tree/main/06_Predicting_Future_Store_Sales_with_AI) |
-| 7 | Customer Churn Prevention (Feature Engineering) | (Coming Soon) | [Folder](https://github.com/ArnavLabh/ML-Projects-GFG/tree/main/07_Preventing_Customer_Churn_with_Feature_Transformation) |
+| 7 | Customer Churn Prevention (Feature Engineering) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BdAoVpdG2iOjat_tlQlDTN3b5GLlTELR) | [Folder](https://github.com/ArnavLabh/ML-Projects-GFG/tree/main/07_Preventing_Customer_Churn_with_Feature_Transformation) |
 
 </div>
 

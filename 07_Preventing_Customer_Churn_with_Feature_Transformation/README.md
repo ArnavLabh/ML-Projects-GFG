@@ -1,6 +1,6 @@
 # Project 7: Preventing Customer Churn with Feature Transformation
 
-Colab notebook: (Coming Soon)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BdAoVpdG2iOjat_tlQlDTN3b5GLlTELR)
 
 ## Objective
 Predict and reduce customer churn by engineering informative behavioral and lifecycle features from raw usage data.
@@ -14,7 +14,7 @@ Predict and reduce customer churn by engineering informative behavioral and life
 - Evaluation: ROC-AUC, Precision-Recall, lift / gain chart
 
 ## Files
-- Notebook (to be added) – End-to-end churn modeling pipeline
+- `7_Preventing_Customer_Churn_with_Feature_Transformation.ipynb` – End-to-end churn modeling pipeline
 
 ## Extensions
 - Survival analysis (time-to-churn modeling)
